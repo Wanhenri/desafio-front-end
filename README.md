@@ -19,7 +19,7 @@ Eles disponibilizaram os layouts aqui:
 https://scene.zeplin.io/project/5c800a66fd01aebc6079baf9
 
 #### FIGMA (para visualizar propriedades de css):
-https://www.figma.com/file/dnAkchlhedIh549NzLq2dWkD/frontend-test?node-id=0%253A1
+https://www.figma.com/file/Ly86lgfa2qYMB1mV1FYpLEQT/frontend-test?node-id=0%3A1
 
 _Caso você utilize o Figma terá acesso a uma ferramenta muito boa para consumir o layout, com acesso ao CSS, imagens e métricas, basta criar a sua conta e utilizar._
 
