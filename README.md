@@ -21,7 +21,7 @@ https://scene.zeplin.io/project/5c800a66fd01aebc6079baf9
 #### FIGMA (para visualizar propriedades de css):
 https://www.figma.com/file/Ly86lgfa2qYMB1mV1FYpLEQT/frontend-test?node-id=0%3A1
 
-_Caso você utilize o Figma terá acesso a uma ferramenta muito boa para consumir o layout, com acesso ao CSS, imagens e métricas, basta criar a sua conta e utilizar._
+> 📙 _Caso você utilize o Figma terá acesso a uma ferramenta muito boa para consumir o layout, com acesso ao CSS, imagens e métricas, basta criar a sua conta e utilizar._
 
 ## Código
 Você deve utilizar esse código que tá uma beleza, para iniciar o seu teste, mas fique livre para copiar o conteúdo para outro sandbox e utilizar as dependências que achar melhor. Vamos avaliar seu JavaScript, HTML e CSS independentemente das bibliotecas que você utilizar.
