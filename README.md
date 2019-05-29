@@ -41,7 +41,7 @@ Você deve utilizar esse código, ~que tá uma beleza~, para iniciar o seu teste
 ## Terceira parte: o contador de stickers.
 - [ ] Precisamos fazer o componente de contador funcionar para que o usuário possa definir a quantidade de stickers que deseja comprar. 
 
-`PRINT/GIF DO CONTADOR`
+![](contador.gif)
 
 ## Bonus: Vamos validar o formulário?!
 Validações de formulário ajudam o usuário a não se perder durante o preenchimento das informações  necessárias. Ajude  nessa causa 🙃.
