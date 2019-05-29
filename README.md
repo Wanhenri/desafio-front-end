@@ -4,11 +4,9 @@ No nosso dia-a-dia temos alguns desafios diários. Desenvolver componentes, apli
 
 Desenvolvemos esse teste que simula situações descritas acima. E tem com o objetivo aferir conhecimentos diversos do universo de front-end: HTML, CSS, Javascript, semântica, acessibilidade, componentização…
 
-``` css
-Importante ressaltar que esse teste é qualitativo e não quantitativo,
+> 📙 Importante ressaltar que esse teste é qualitativo e não quantitativo,
 vamos levar em consideração a qualidade do código e não o número de
 etapas concluídas.
-```
 
 Ele foi separado em etapas, então, sinta-se a vontade para fazer até onde o seu conhecimento e prazo permitir.
 
