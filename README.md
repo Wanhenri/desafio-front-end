@@ -59,6 +59,6 @@ Eles podem te auxiliar no desenvolvimento do teste:
 
 
 ## Pronto, e agora?
-- [ ] Envie o link do sandbox para frontend@vagas.com.br 
-- [ ] Coloque no assunto do email: "Teste para frontend - seu nome aqui"
+- [ ] Envie o link do sandbox para [codesubmissions@vagas.com.br](codesubmissions@vagas.com.br) 
+- [ ] Coloque no assunto do email: "Front-end Developer VAGAS.com - *seu nome aqui*"
 - [ ] E em breve retornaremos com mais detalhes :blue_heart:
